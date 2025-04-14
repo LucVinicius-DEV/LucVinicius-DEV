@@ -9,34 +9,33 @@
 
 ## 🚀 Tecnologias que estou aprendendo
 
-- Java (básico ao avançado)
-- Estruturas de dados
-- Lógica de programação
-- Git e GitHub
-- Spring Boot (em breve)
-
----
-
-## 📚 Repositórios em destaque
-
-| Projeto | Descrição |
-|--------|-----------|
-| [🔐 Verificador de Senhas](https://github.com/LucVinicius-DEV/VerificadorDeSenhas) | Valida senhas fortes com base em regras de segurança |
-| [🧭 Quadrante](https://github.com/LucVinicius-DEV/Quadrante) | Identifica em qual quadrante um ponto está no plano cartesiano |
-| [⛽ Preferência de Combustível](https://github.com/LucVinicius-DEV/PreferenciaCombustivel) | Contabiliza a preferência dos clientes por tipo de combustível |
-| [🧮 Calculadora de Média Simples](https://github.com/LucVinicius-DEV/CalculadoraMediaSimples) | Calcula a média aritmética entre dois números informados |
-| [⚔️ Criador de Personagens](https://github.com/LucVinicius-DEV/CriadorDePersonagem) | Criação de personagens com atributos aleatórios para jogos ou RPG |
-
----
-
-## ✨ Sobre mim
-
-- Tenho experiência como corretor de imóveis e vendedor, agora focado em programação
-- Estudando todos os dias, com disciplina e projetos práticos
-- Em busca de oportunidades para aplicar e expandir meus conhecimentos
-
----
-
 <p align="center">
-  <strong>“Disciplina é o que transforma intenção em ação.”</strong>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+## 🧠 Estudos & Fundamentos
+
+Exercícios básicos de Java e lógica:
+
+- [Calculadora de Média Simples](https://github.com/LucVinicius-DEV/CalculadoraMediaSimples)
+- [Quadrante](https://github.com/LucVinicius-DEV/Quadrante)
+- [Preferência de Combustível](https://github.com/LucVinicius-DEV/PreferenciaCombustivel)
+- [Verificador de Senhas](https://github.com/LucVinicius-DEV/VerificadorDeSenhas)
+
+---
+
+## ⚙️ Mini Aplicações
+
+Projetos pequenos com lógica aplicada e objetivos definidos:
+
+- [Criador de Personagem](https://github.com/LucVinicius-DEV/CriadorDePersonagem)
+
+---
+
+## 🧪 Laboratório de Testes
+
+Em breve: repositórios para testar bibliotecas,
