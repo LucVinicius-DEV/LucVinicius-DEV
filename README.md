@@ -38,4 +38,24 @@ Projetos pequenos com lógica aplicada e objetivos definidos:
 
 ## 🧪 Laboratório de Testes
 
-Em breve: repositórios para testar bibliotecas,
+Em breve: repositórios para testar bibliotecas, novos conceitos e brincar com código.
+
+---
+
+## 💼 Projetos de Portfólio
+
+Projetos maiores e mais elaborados — virão conforme a jornada avança!
+
+---
+
+## ✨ Sobre mim
+
+- Tenho experiência como corretor de imóveis e vendedor, agora focado em programação
+- Estudando todos os dias, com disciplina e projetos práticos
+- Em busca de oportunidades para aplicar e expandir meus conhecimentos
+
+---
+
+<p align="center">
+  <strong>“Disciplina é o que transforma intenção em ação.”</strong>
+</p>
