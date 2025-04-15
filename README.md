@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 <h1 align="center">Olá, eu sou o Lucas Vinicius! 👋</h1>
 
 <p align="center">
