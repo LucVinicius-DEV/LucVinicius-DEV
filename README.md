@@ -23,10 +23,10 @@
 
 Exercícios básicos de Java e lógica:
 
-- [Calculadora de Média Simples](https://github.com/LucVinicius-DEV/CalculadoraMediaSimples)
-- [Quadrante](https://github.com/LucVinicius-DEV/Quadrante)
-- [Preferência de Combustível](https://github.com/LucVinicius-DEV/PreferenciaCombustivel)
-- [Verificador de Senhas](https://github.com/LucVinicius-DEV/VerificadorDeSenhas)
+- [Estrutura de repetição for](https://github.com/LucVinicius-DEV/estrutura-de-repeticao-for)
+- [Funções em Java](https://github.com/LucVinicius-DEV/funcoes-em-java)
+- [Controle de estoque](https://github.com/LucVinicius-DEV/ControleDeEstoque)
+- [Criador de Personagem simples](https://github.com/LucVinicius-DEV/criador-de-personagem)
 
 ---
 
