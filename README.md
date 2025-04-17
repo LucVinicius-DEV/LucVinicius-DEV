@@ -67,7 +67,7 @@
   <a href="https://www.linkedin.com/in/lucas-vin%C3%ADcius-05b41a35b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Vinicius-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:lucas.seuemail@email.com" target="_blank">
+  <a href="mailto:us3.lucas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Enviar%20mensagem-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
