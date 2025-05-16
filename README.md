@@ -1,145 +1,151 @@
-![Banner](https://github.com/LucVinicius-DEV/LucVinicius-DEV/blob/main/banner.png)
+# Lucas Vinicius | Desenvolvedor Back-End Java
 
-<h1 align="center">Olá, eu sou o Lucas Vinicius! 👋</h1>
+<div align="center">
+  <img src="https://github.com/LucVinicius-DEV/LucVinicius-DEV/raw/main/banner.png" alt="Banner Lucas Vinicius" width="100%">
+</div>
 
-<p align="center">
-  Estudante de Java, apaixonado por tecnologia e focado em construir uma base sólida no desenvolvimento back-end.<br>
-  Criando projetos simples, bem estruturados e com visual padronizado enquanto caminho rumo à carreira como programador.
-</p>
+## 👋 Transformando Lógica em Soluções
 
----
+Desenvolvedor back-end focado em Java, construindo uma base sólida através de **projetos estruturados** e **código limpo**. Minha jornada é guiada pela disciplina diária e pela busca constante de conhecimento aplicável.
 
-## 🚀 Tecnologias que estou aprendendo
+Com experiência anterior em negociação e atendimento ao cliente como corretor de imóveis, trago uma perspectiva única para o desenvolvimento de software: **entender a necessidade por trás do código**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 🧠 Estudos & Fundamentos
-
-> Repositórios com foco em lógica, estruturas básicas e domínio da linguagem Java.
-
-- [Java: Exercícios Iniciais](https://github.com/LucVinicius-DEV/java-ezercicios-iniciais)
-- [Java: Exercícios Básicos](https://github.com/LucVinicius-DEV/java-exercicios-basico)
-- [Estrutura de Repetição For](https://github.com/LucVinicius-DEV/estrutura-de-repeticao-for)
-- [Funções em Java](https://github.com/LucVinicius-DEV/funcoes-em-java)
-- [Construtores e Encapsulamento](https://github.com/LucVinicius-DEV/ConstrutoresEEncapsulamento)
-- [Programação Orientada a Objetos](https://github.com/LucVinicius-DEV/programacao-orientada-a-objetos)
-- [Cadastro de Alunos (POO)](https://github.com/LucVinicius-DEV/CadastroDeAlunos)
+<div align="center">
+  
+  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/LucVinicius-DEV?tab=repositories&q=java&type=&language=java)
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/LucVinicius-DEV)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucVinicius-DEV)
+  
+</div>
 
 ---
 
-## ⚙️ Mini Aplicações
+## 🧠 Fundamentos & Projetos
 
-> Pequenos programas aplicando lógica prática, entrada/saída e resolução de problemas simples.
-
-- [Criador de Personagem Interativo](https://github.com/LucVinicius-DEV/criador-de-personagem)
-- [Calculadora de Média Simples](https://github.com/LucVinicius-DEV/CalculadoraMediaSimples)
-- [Calculadora de IMC](https://github.com/LucVinicius-DEV/CalculadoraIMC)
-- [Verificador de Senha](https://github.com/LucVinicius-DEV/VerificadorDeSenha)
-- [Preferência de Combustível](https://github.com/LucVinicius-DEV/PreferenciaCombustivel)
-- [Quadrante de Coordenadas](https://github.com/LucVinicius-DEV/Quadrante)
-- [Calculadora de Descontos](https://github.com/LucVinicius-DEV/calculadora-descontos)
-
----
-
-## 📊 Aplicações Práticas
-
-> Exercícios com foco em simular situações reais ou dados aplicáveis a cenários cotidianos.
-
-- [Controle de Estoque (CRUD com ArrayList)](https://github.com/LucVinicius-DEV/ControleDeEstoque)
-- [Média Escolar com Regras de Aprovação](https://github.com/LucVinicius-DEV/media-escolar)
-
----
-
-## 🧮 Manipulação de Dados
-
-> Programas voltados à prática com arrays, matrizes e organização de dados.
-
-- [Exercícios com Matrizes em Java](https://github.com/LucVinicius-DEV/Matrix)
-- [Calendário e Datas](https://github.com/LucVinicius-DEV/date-calendar)
-
----
-
-## 🧪 Laboratório de Testes
-
-> Repositório destinado a testes futuros com bibliotecas externas, projetos exploratórios ou integração com APIs.  
-**Em breve.**
-
----
-
-## 💼 Projetos de Portfólio
-
-> Projetos maiores com foco profissional, em fase de construção.  
-**Em breve.**
-
----
-
-## ✨ Sobre mim
-
-- Experiência anterior como corretor de imóveis e vendedor
-- Em transição para a tecnologia com foco no back-end
-- Disciplina diária, estudando com base em projetos reais e práticos
-- Aberto a oportunidades, mentorias e conexões profissionais
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-vin%C3%ADcius-05b41a35b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Vinicius-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:us3.lucas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Enviar%20mensagem-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>“Disciplina é o que transforma intenção em ação.”</strong><br>
-  <em>— Lucas Vinicius</em>
-</p>
-
----
+> **Construindo a base**: Repositórios focados em dominar a linguagem Java e seus conceitos fundamentais.
 
 <details>
-<summary><strong>🇺🇸 English Version</strong></summary>
+<summary><b>Fundamentos da Linguagem</b></summary>
+<br>
 
-<h2 align="center">Hi, I'm Lucas Vinicius! 👋</h2>
+- [Java: Exercícios Iniciais](https://github.com/LucVinicius-DEV/java-exercicios-iniciais) - Primeiros passos com sintaxe e estruturas básicas
+- [Java: Exercícios Básicos](https://github.com/LucVinicius-DEV/java-exercicios-basicos) - Consolidação de conceitos fundamentais
+- [Estrutura de Repetição For](https://github.com/LucVinicius-DEV/estrutura-repeticao-for) - Dominando loops e iterações
+- [Funções em Java](https://github.com/LucVinicius-DEV/funcoes-java) - Implementação e uso de métodos
+- [Construtores e Encapsulamento](https://github.com/LucVinicius-DEV/construtores-encapsulamento) - Princípios de OOP
+- [Programação Orientada a Objetos](https://github.com/LucVinicius-DEV/programacao-orientada-objetos) - Aplicação completa de OOP
+- [Cadastro de Alunos (POO)](https://github.com/LucVinicius-DEV/cadastro-alunos-poo) - Sistema prático com conceitos de OOP
 
-<p align="center">
-  Java student, passionate about technology, focused on building a strong foundation in back-end development.<br>
-  Creating simple, well-structured projects with a consistent visual identity while moving forward in my programming journey.
-</p>
+</details>
 
-### 🚀 Technologies I'm Learning
+<details>
+<summary><b>Aplicações Práticas</b></summary>
+<br>
 
-- Java
-- Git & GitHub
+- [Criador de Personagem Interativo](https://github.com/LucVinicius-DEV/criador-personagem) - Interface de console para criação de personagens
+- [Calculadora de Média Simples](https://github.com/LucVinicius-DEV/calculadora-media) - Algoritmo para cálculo de médias
+- [Calculadora de IMC](https://github.com/LucVinicius-DEV/calculadora-imc) - Aplicação para cálculo de índice de massa corporal
+- [Verificador de Senha](https://github.com/LucVinicius-DEV/verificador-senha) - Sistema de validação de senhas
+- [Preferência de Combustível](https://github.com/LucVinicius-DEV/preferencia-combustivel) - Algoritmo de decisão baseado em preços
+- [Quadrante de Coordenadas](https://github.com/LucVinicius-DEV/quadrante-coordenadas) - Aplicação de conceitos matemáticos
+- [Calculadora de Descontos](https://github.com/LucVinicius-DEV/calculadora-descontos) - Sistema de cálculo de descontos progressivos
 
-### 🧠 Learning & Fundamentals
+</details>
 
-- Java initial and basic exercises
-- Loops, functions, and object-oriented programming
-- Simple mini applications and logic problems
+<details>
+<summary><b>Simulações de Cenários Reais</b></summary>
+<br>
 
-### 📊 Practical Applications
+- [Controle de Estoque (CRUD com ArrayList)](https://github.com/LucVinicius-DEV/controle-estoque) - Sistema completo de gerenciamento de produtos
+- [Média Escolar com Regras de Aprovação](https://github.com/LucVinicius-DEV/media-escolar) - Simulação de sistema acadêmico
 
-- Student grade management
-- Inventory control with ArrayList
-- Matrix-based data handling
+</details>
 
-### ✨ About me
+<details>
+<summary><b>Estruturas de Dados</b></summary>
+<br>
 
-- Former real estate agent and salesperson
-- Now fully focused on becoming a backend developer
-- Studying daily with discipline and real project practice
-- Open to opportunities, mentorship, and connections
+- [Exercícios com Matrizes em Java](https://github.com/LucVinicius-DEV/exercicios-matrizes) - Manipulação de dados bidimensionais
+- [Calendário e Datas](https://github.com/LucVinicius-DEV/calendario-datas) - Trabalho com classes temporais em Java
+
+</details>
+
+---
+
+## 🚀 Próximos Passos
+
+> **Expandindo horizontes**: Áreas de interesse e desenvolvimento futuro.
+
+- **Frameworks Java** - Spring Boot, Hibernate e JUnit
+- **Bancos de Dados** - SQL e integração com aplicações Java
+- **APIs RESTful** - Desenvolvimento e consumo de serviços web
+- **Inteligência Artificial** - Explorações iniciais em IA aplicada ao setor jurídico
+
+---
+
+## 💼 Experiência & Habilidades
+
+- **Desenvolvimento Back-End**: Java, POO, CRUD, estruturas de dados
+- **Controle de Versão**: Git, GitHub
+- **Soft Skills**: Negociação, comunicação eficaz, resolução de problemas
+- **Metodologia**: Aprendizado baseado em projetos, prática diária, documentação
+
+---
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucvinicius-dev/)
+  [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:us3.lucas@gmail.com)
+  
+</div>
+
+<div align="center">
+  <p><b>"Disciplina é o que transforma intenção em ação."</b></p>
+  <p><i>— Lucas Vinicius</i></p>
+</div>
+
+---
+
+## 🇺🇸 English Version
+
+<details>
+<summary><b>Click to expand</b></summary>
+<br>
+
+# Lucas Vinicius | Java Back-End Developer
+
+## 👋 Transforming Logic into Solutions
+
+Back-end developer focused on Java, building a solid foundation through **structured projects** and **clean code**. My journey is guided by daily discipline and the constant pursuit of applicable knowledge.
+
+With previous experience in negotiation and customer service as a real estate agent, I bring a unique perspective to software development: **understanding the need behind the code**.
+
+### 🧠 Foundations & Projects
+
+> **Building the foundation**: Repositories focused on mastering the Java language and its fundamental concepts.
+
+- **Language Fundamentals** - Syntax, basic structures, loops, methods, OOP principles
+- **Practical Applications** - Console interfaces, calculators, validation systems, decision algorithms
+- **Real-World Simulations** - Inventory control, academic systems, CRUD operations
+- **Data Structures** - Arrays, matrices, date handling, data manipulation
+
+### 🚀 Next Steps
+
+> **Expanding horizons**: Areas of interest and future development.
+
+- **Java Frameworks** - Spring Boot, Hibernate, and JUnit
+- **Databases** - SQL and integration with Java applications
+- **RESTful APIs** - Development and consumption of web services
+- **Artificial Intelligence** - Initial explorations in AI applied to the legal sector
+
+### 💼 Experience & Skills
+
+- **Back-End Development**: Java, OOP, CRUD, data structures
+- **Version Control**: Git, GitHub
+- **Soft Skills**: Negotiation, effective communication, problem-solving
+- **Methodology**: Project-based learning, daily practice, documentation
+
+**"Discipline is what transforms intention into action."**
+— Lucas Vinicius
 
 </details>
